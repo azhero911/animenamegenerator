@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Authentic Japanese Hanko Seal">
+  <rect x="2" y="2" width="44" height="44" rx="6" fill="#C8392B"/>
+  <rect x="5" y="5" width="38" height="38" rx="4" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.8"/>
+  <text x="24" y="34" font-family="'Yu Mincho', 'MS Mincho', Georgia, serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">名</text>
+</svg>

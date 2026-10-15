@@ -1,0 +1,6 @@
+# Pre-launch protection: Disallow all crawling until domain launch
+User-agent: *
+Disallow: /
+
+# Sitemap declaration (will be enabled upon running wire-domain)
+# Sitemap: https://animenamevault.com/sitemap.xml
